@@ -1,0 +1,24 @@
+{
+  "name": "javascript_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "lint": "eslint .  --ext .js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajenkins6793/javascript-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajenkins6793/javascript-example/issues"
+  },
+  "homepage": "https://github.com/ajenkins6793/javascript-example#readme",
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "eslint": "^7.19.0"
+  }
+}
